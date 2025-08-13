@@ -3,3 +3,4 @@
 
 ls | to json | save out_json.txt
 ls | to csv | save out_csv.txt
+ls | table | save out_table.txt
