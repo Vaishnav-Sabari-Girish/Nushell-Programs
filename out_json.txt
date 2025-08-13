@@ -1,0 +1,32 @@
+[
+  {
+    "name": "README.md",
+    "type": "file",
+    "size": 214,
+    "modified": "2025-08-13 15:24:16.592907867 +05:30"
+  },
+  {
+    "name": "glob_command.nu",
+    "type": "file",
+    "size": 300,
+    "modified": "2025-08-13 15:20:14.708885988 +05:30"
+  },
+  {
+    "name": "hello_world.nu",
+    "type": "file",
+    "size": 19,
+    "modified": "2025-08-13 14:00:45.747861458 +05:30"
+  },
+  {
+    "name": "http_get.nu",
+    "type": "file",
+    "size": 111,
+    "modified": "2025-08-13 15:23:58.335064350 +05:30"
+  },
+  {
+    "name": "save_to_file.nu",
+    "type": "file",
+    "size": 160,
+    "modified": "2025-08-13 15:27:51.007829165 +05:30"
+  }
+]
