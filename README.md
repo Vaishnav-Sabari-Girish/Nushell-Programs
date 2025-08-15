@@ -9,3 +9,4 @@ My Nushell Scripts. Might make this into a plugin later on.
 3. [HTTP GET (Curl alternative)](./http_get.nu)
 4. [Save to a file](./save_to_file/save_to_file.nu)
 5. [Custom Commands](./custom_commands.nu)
+6. [Variables](./variables.nu)
