@@ -11,3 +11,4 @@ My Nushell Scripts. Might make this into a plugin later on.
 5. [Custom Commands](./custom_commands.nu)
 6. [Variables](./variables.nu)
 7. [Performance metrics](./performance_metrics.nu)
+8. [Match Keyword](./match_keyword.nu)
