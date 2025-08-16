@@ -12,3 +12,4 @@ My Nushell Scripts. Might make this into a plugin later on.
 6. [Variables](./variables.nu)
 7. [Performance metrics](./performance_metrics.nu)
 8. [Match Keyword](./match_keyword.nu)
+9. [Pattern matching](./pattern_matching.nu)
